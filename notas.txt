@@ -1,2 +1,3 @@
 estas son mis notas para la actividad 2
 git sirve para llevar el historial de cambios de un proyecto
+cada commit guarda un cambio con un mensaje descriptivo
